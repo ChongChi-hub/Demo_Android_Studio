@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ViewpagerNavigation"
+rootProject.name = "ViewPagerNavigation"
 include(":app")
  
